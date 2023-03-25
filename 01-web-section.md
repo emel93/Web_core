@@ -49,7 +49,7 @@
 
 #### Задание
 
-[Практика](https://webref.ru/practice) - тут будем практиковаться в базовыз вещах
+[Практика](https://webref.ru/practice) - тут будем практиковаться в базовых вещах
 
 #### Обязательные задачи которые надо прорешать
 - Элементы HTML
@@ -73,9 +73,9 @@
 - Наследование CSS
 
 ## Блок 1.3: Построение сеток + БЭМ именование
-[Flex](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Flexbox)
-[Grid](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Grids)
-[Float](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Floats)
+[Flex](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Flexbox)  
+[Grid](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Grids)  
+[Float](https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Floats)  
 [Документация БЭМ](https://ru.bem.info/methodology/quick-start/) - Первые 4 раздела  
 [Доклад по БЭМ](https://www.youtube.com/watch?v=kBgHdSOj33A) ( [Слайды](http://ihorzenich.github.io/talks/bem-frontendweekend/) )  
 [Методология БЭМ за 17 минут](https://www.youtube.com/watch?v=HihYQVuH64U)  
@@ -84,6 +84,9 @@
 [CSS Display свойство](https://www.youtube.com/watch?v=uTS7CJ7gDwU&ab_channel=temofart)  
 
 #### Доп материалы:
+- [Flexbox](https://scrimba.com/learn/flexbox)  
+- [Grid](https://scrimba.com/learn/cssgrid)  
+- [CSS Variables](https://scrimba.com/learn/cssvariables)  
 - [Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
 - [Grid game](https://cssgridgarden.com/#ru)
 - [* { box-sizing: border-box; }](https://toster.ru/q/520184)
@@ -105,10 +108,6 @@
 - Аудио и видео
 - Изображения
 - Многоколоночная вёрстка
-- Переходы и анимация
-- Трансформация
-- Фон
-- Фреймы
 
 Сверстать блок из [макета](https://www.figma.com/file/q3FIPZpIAwxM0gzZnTBL5b/%D0%91%D0%BB%D0%BE%D0%BA-1.3%3A-%D0%9F%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%B5%D1%82%D0%BE%D0%BA-%2B-%D0%91%D0%AD%D0%9C-%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5?node-id=0-494&t=HCT8Kn1in6uMEAB9-4), выложить на Githab/Gihub pages.
 - Это часть макета из блока 1.6, поэтому выделяйте общие элементы исходя из итогового макета.
@@ -133,10 +132,19 @@
 [Продвинутый CSS](https://webref.ru/course/css-advanced)
 
 #### Доп материалы:
-- [Emmet](https://habr.com/ru/post/175747/) (увы, на html academy не работает =( )
+- [Emmet](https://habr.com/ru/post/175747/)  
 - [Контекст наложения](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context)
 
 #### Задание
+
+[Практика](https://webref.ru/practice) - все те же задачки
+
+#### Обязательные задачи которые надо прорешать
+- Переходы и анимация
+- Трансформация
+- Фон
+- Фреймы
+
 Сверстать блок из [макета](https://www.figma.com/file/zFV5wSSEAxvvZuQByZfrfC/%D0%91%D0%BB%D0%BE%D0%BA-1.4%3A-%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D0%B0%D1%8F-%D1%81%D1%82%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F?node-id=0-2186&t=C7GTo6EUIHKBStpt-4), кладём  в доступный файл в ближайший репозиторий.
 Блок должен быть шириной 320 пикселей и фиксироваться в левой части экрана независимо от размера экрана. 
 При наведении стиль кнопок плавно меняется, возьмите для этого какой-нибудь css filter или opacity.
